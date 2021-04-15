@@ -131,11 +131,3 @@ public class DB {
     
 
 }
-
-
-//SELECT       `column`,
-//             COUNT(`column`) AS `value_occurrence` 
-//    FROM     `my_table`
-//    GROUP BY `column`
-//    ORDER BY `value_occurrence` DESC
-//    LIMIT    1;
